@@ -420,6 +420,7 @@ ul {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--header-color-bg);
+    margin-bottom: 20px;
 }
 .address {
     margin-right: 70px;
